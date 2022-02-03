@@ -53,7 +53,7 @@
 			}
 , 			{
 				"box" : 				{
-					"comment" : "",
+					"comment" : "mc.signal~ in",
 					"id" : "obj-30",
 					"index" : 1,
 					"maxclass" : "inlet",
@@ -90,7 +90,7 @@
 			}
 , 			{
 				"box" : 				{
-					"comment" : "",
+					"comment" : "Highpass Output",
 					"id" : "obj-25",
 					"index" : 2,
 					"maxclass" : "outlet",
@@ -102,7 +102,7 @@
 			}
 , 			{
 				"box" : 				{
-					"comment" : "",
+					"comment" : "Lowpass Output",
 					"id" : "obj-24",
 					"index" : 1,
 					"maxclass" : "outlet",
